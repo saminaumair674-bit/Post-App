@@ -1,0 +1,82 @@
+ body {
+    background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.clr {
+    background-color: #d1c4e9;
+}
+
+.bgColor {
+    background-color: #673ab7;
+}
+
+.text {
+    color: #673ab7;
+}
+
+.bg {
+    border: 1px solid #673ab7;
+}
+
+.bg:hover {
+    background-color: #c2abec;
+    border: 1px solid #673ab7;
+    color: #673ab7;
+}
+
+.card {
+    background-color: #ece5e1
+;
+}
+
+.postBtn {
+    border: 1px solid #673ab7;
+}
+
+.postBtn:hover {
+    border: 1px solid #673ab7;
+    background-color: #a47beb;
+}
+
+.title {
+    color: #bc95e4;
+    font-weight: bold;
+}
+
+.swal2-popup {
+    background-color: #d1c4e9 !important;
+    border: 2px solid #673ab7 !important;
+    border-radius: 15px !important;
+    color: #673ab7 !important;
+}
+
+.swal2-title {
+    color: #673ab7 !important;
+    font-weight: bold !important;
+}
+
+.swal2-html-container {
+    color: #4a238a !important;
+}
+
+.swal2-confirm {
+    background-color: #673ab7 !important; 
+    color: #ffffff !important;
+    border: 1px solid #673ab7 !important;
+    border-radius: 8px !important;
+    padding: 8px 25px !important;
+}
+
+.swal2-confirm:hover {
+    background-color: #a47beb !important;
+}
+
+.swal2-footer {
+    border-top: 1px solid #b39ddb !important;
+}
+
+.swal2-footer a {
+    color: #673ab7 !important;
+    font-weight: 500;
+}
